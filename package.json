@@ -1,0 +1,20 @@
+{
+  "name": "wonderland",
+  "version": "1.0.0",
+  "description": "奇地引擎是 AI 驱动引擎，用户可以通过自然语言生成对应的逻辑和物品",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.182.0"
+  },
+  "devDependencies": {
+    "vite": "^7.3.1"
+  }
+}
